@@ -1,4 +1,4 @@
-<img src="[https://github.com/nguyen-group/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png](https://github.com/nguyen-group/nguyen-group/blob/main/header.png)" alt="banner">
+<img src="[[https://github.com/nguyen-group/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png](https://github.com/nguyen-group/nguyen-group/blob/main/header.png)](https://github.com/nguyen-group/nguyen-group/blob/main/header.png)" alt="banner">
 <!--
 **nguyen-group/nguyen-group** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
