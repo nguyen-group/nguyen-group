@@ -1,5 +1,4 @@
-
-![Sarah hart Landolt, software developer, artist](https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/ProfileHeader.png)
+![Interdisciplinary Quantum Materials's Group](https://github.com/nguyen-group/nguyen-group/blob/master/header.png)
 
 
 ### Hi there, I'm Sarah! 👋
