@@ -1,6 +1,6 @@
 ### Hi there, Welcome to Quantum Materials's Group! 👋
-- 💻 Check out these two Apps that I built from scratch and am most proud of:
-
+- 💻 This GitHub contains our codes, examples, data for our books, codes, and papers:
+![group](https://github.com/nguyen-group/nguyen-group/blob/main/group.png)
 - 📫 How to reach me: [Email](hung@live.jp) || [Homepage](https://nguyen-group.github.io/) || [Google Scholar](https://scholar.google.com/citations?user=7O6Qq_kAAAAJ&hl=en) || [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56912954900)
 
 <br/>
