@@ -6,5 +6,7 @@
 #### :rocket: This GitHub contains our codes, examples, and data for our books, codes, and papers:
 ![group](https://github.com/nguyen-group/nguyen-group/blob/main/group.png)
 
+## My activity:
+![contrib graph](./profile-3d-contrib/profile-south-season.svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nguyen-group&label=Profile%20views&color=0e75b6&style=flat" alt="nguyen-group" /> </p>
