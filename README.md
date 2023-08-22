@@ -1,7 +1,6 @@
 ### Hi there, Welcome to Quantum Materials's Group! 👋
 - 💻 Check out these two Apps that I built from scratch and am most proud of:
-     - [Paris-Passe-Partout](https://github.com/sarah-hart-landolt/Paris-Passe-Partout) 
-     - [Feeling Heart](https://github.com/sarah-hart-landolt/Feeling-Heart-Chart)
+
 - 📫 How to reach me: [Email](hung@live.jp) || [Homepage](https://nguyen-group.github.io/) || [Google Scholar](https://scholar.google.com/citations?user=7O6Qq_kAAAAJ&hl=en) || [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56912954900)
 
 <br/>
