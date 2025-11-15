@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000C1&width=520&lines=Welcome+to+Quantum+Materials's+Group)](https://nguyen-group.github.io/)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000C1&width=520&lines=Welcome+to+Interdisciplinary+Materials's+Group)](https://nguyen-group.github.io/)
 :memo: We, a theoretical group at National Taiwan University, focus on solid-state theory, simulation, and machine learning for quantum materials.
 
 #### 📫 How to reach us: [Homepage](https://nguyen-group.github.io/) || [Google Scholar](https://scholar.google.com/citations?user=7O6Qq_kAAAAJ&hl=en) || [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56912954900)
